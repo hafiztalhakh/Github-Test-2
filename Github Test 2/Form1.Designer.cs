@@ -66,7 +66,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 4;
-            this.button2.Text = "OK";
+            this.button2.Text = "Save";
             this.button2.UseVisualStyleBackColor = true;
             // 
             // textBox2
